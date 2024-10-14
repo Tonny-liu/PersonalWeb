@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: We propose a renormalization group (RG) theory of eigen microstates, which are introduced in the statistical ensemble composed of microstates obtained from experiments or computer simulations. A microstate in the ensemble can be considered as a linear superposition of eigen microstates with probability amplitudes equal to their eigenvalues. Under the renormalization of a factor 𝑏, the largest eigenvalue 𝜎 1 has two trivial fixed points at 𝑏 low and high temperature limits and a critical fixed point with the RG relation 𝜎 1 = 𝑏 𝛽 /𝜈 𝜎 1 , where 𝛽 and 𝜈 are the critical exponents of order parameter and correlation length, respectively. With the Ising model in different dimensions, it has been demonstrated that the RG theory of eigen microstates is able to identify the critical point and to predict critical exponents and the universality class. Our theory can be used in research of critical phenomena both in equilibrium and non-equilibrium systems without considering the Hamiltonian, which is the foundation of Wilson’s RG theory and is absent for most complex systems.
+abstract: We propose a renormalization group (RG) theory of eigen microstates, which are introduced in the statistical ensemble composed of microstates obtained from experiments or computer simulations. A microstate in the ensemble can be considered as a linear superposition of eigen microstates with probability amplitudes equal to their eigenvalues. Under the renormalization of a factor 𝑏, the largest eigenvalue {{< math >}}$\sigma_1${{< /math >}} has two trivial fixed points at 𝑏 low and high temperature limits and a critical fixed point with the RG relation {{< math >}}$\sigma_1^b = b^{\beta/\nu}\sigma_1${{< /math >}}, where {{< math >}}$\beta${{< /math >}} and {{< math >}}$\nu${{< /math >}} are the critical exponents of order parameter and correlation length, respectively. With the Ising model in different dimensions, it has been demonstrated that the RG theory of eigen microstates is able to identify the critical point and to predict critical exponents and the universality class. Our theory can be used in research of critical phenomena both in equilibrium and non-equilibrium systems without considering the Hamiltonian, which is the foundation of Wilson’s RG theory and is absent for most complex systems.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/an-abstract-image-of-a-blue-and-white-snowflake-jH92D9XmQg0)'
   focal_point: ""
   preview_only: false
 
