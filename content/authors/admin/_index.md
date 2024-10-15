@@ -92,9 +92,9 @@ work:
     date_start: 2023-06
     date_end: 2024-03
     summary: |2-
-      Team member of Prof. Xiaosong Chen
+      # Team member of Prof. Xiaosong Chen
       # School of Systems Science
-      # Responsibilities include:
+      Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
