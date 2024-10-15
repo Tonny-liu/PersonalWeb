@@ -45,7 +45,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=3g_VFZgAAAAJ&hl=zh-CN
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-4971-1703
 
 interests:
   - Statistical physics 
@@ -110,45 +110,46 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
+
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Teng Liu is a postdoctoral researcher in Earth system at [Prof. Niklas Boers’ lab](https://www.asg.ed.tum.de/esm/home/) at TUM. His research interests include tipping points and teleconnections in the Earth system, critical phenomena in physical systems, and critical dynamics in complex systems.
