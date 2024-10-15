@@ -93,11 +93,11 @@ work:
     date_end: 2024-03
     summary: |2-
       Team member of Prof. Xiaosong Chen
-      School of Systems Science
+      # School of Systems Science
       # Responsibilities include:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - position: Director of Cloud Infrastructure
   #   company_name: GenCoin
   #   company_url: ''
