@@ -89,8 +89,8 @@ work:
     company_name: Beijing Normal University
     company_url: ''
     company_logo: ''
-    date_start: 2023-06
-    date_end: 2024-03
+    date_start: 2023-06-01
+    date_end: 2024-03-24
     summary: |2-
       # Team member of Prof. Xiaosong Chen
       # School of Systems Science
