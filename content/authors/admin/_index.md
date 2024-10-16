@@ -88,7 +88,7 @@ work:
   - position: Postdoctoral Researcher
     company_name: School of Engineering and Design, Technical University of Munich
     company_url: ''
-    company_logo: "custom/BNU"
+    company_logo: ''
     date_start: 2024-03-24
     date_end: ''
     summary: |2-
@@ -96,7 +96,7 @@ work:
   - position: Research Assistant
     company_name: School of Systems Science, Beijing Normal University
     company_url: ''
-    company_logo: ''
+    company_logo: 'custom/BNU'
     date_start: 2023-06-01
     date_end: 2024-03-24
     summary: |2-
