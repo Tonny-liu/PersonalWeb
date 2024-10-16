@@ -88,7 +88,7 @@ work:
   - position: Postdoctoral Researcher
     company_name: School of Engineering and Design, Technical University of Munich
     company_url: ''
-    company_logo: ''
+    company_logo: "custom/BNU.svg"
     date_start: 2024-03-24
     date_end: ''
     summary: |2-
