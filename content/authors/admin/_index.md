@@ -88,7 +88,7 @@ work:
   - position: Postdoctoral Researcher
     company_name: School of Engineering and Design, Technical University of Munich
     company_url: ''
-    company_logo: "custom/BNU.svg"
+    company_logo: "custom/BNU"
     date_start: 2024-03-24
     date_end: ''
     summary: |2-
@@ -100,7 +100,7 @@ work:
     date_start: 2023-06-01
     date_end: 2024-03-24
     summary: |2-
-      Team member of Prof. Xiaosong Chen.
+      Team member of Prof. Xiaosong Chen's lab.
   # - position: Director of Cloud Infrastructure
   #   company_name: GenCoin
   #   company_url: ''
