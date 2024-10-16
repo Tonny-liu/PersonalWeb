@@ -92,8 +92,7 @@ work:
     date_start: 2024-03-24
     date_end: ''
     summary: |2-
-      Team member of [Prof. Niklas Boers’ lab](https://www.asg.ed.tum.de/esm/home/).
-
+      Team member of Prof. Niklas Boers’ lab.
   - position: Research Assistant
     company_name: School of Systems Science, Beijing Normal University
     company_url: ''
