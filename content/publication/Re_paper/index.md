@@ -2,15 +2,13 @@
 title: "Renormalization Group Theory of Eigen Microstates"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2022-07-07T00:00:00Z"
+doi: "10.1088/0256-307X/39/8/080503"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-07-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Chinese Physics Letters, Express Letter* 39, 080503"
+publication_short: "CPL"
 
 abstract: In this work, we propose a real space renormalization group (RG) theory, based on the framework of Eigen Microstates Approach (EMA). A microstate in the ensemble can be considered as a linear superposition of eigen microstates with probability amplitudes equal to their eigenvalues. Under the renormalization of a factor 𝑏, the largest eigenvalue {{< math >}}$\sigma_1${{< /math >}} has two trivial fixed points at 𝑏 low and high temperature limits and a critical fixed point with the RG relation {{< math >}}$\sigma_1^b = b^{\beta/\nu}\sigma_1${{< /math >}}, where {{< math >}}$\beta${{< /math >}} and {{< math >}}$\nu${{< /math >}} are the critical exponents of order parameter and correlation length, respectively. With the Ising model in different dimensions, it has been demonstrated that the RG theory of eigen microstates is able to identify the critical point and to predict critical exponents and the universality class. Our theory can be used in research of critical phenomena both in equilibrium and non-equilibrium systems without considering the Hamiltonian, which is the foundation of Wilson’s RG theory and is absent for most complex systems.
 
